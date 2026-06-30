@@ -14,6 +14,3 @@
 
 # 🔢 LeetCode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Ramesh-2004?theme=dark&font=Nunito&ext=heatmap)
-
----
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnunavathramesh&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
